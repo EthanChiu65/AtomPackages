@@ -63,16 +63,6 @@ Minimap [有許多的輔助套件](https://github.com/atom-minimap/minimap#avail
 
 ![regex-railraod-diagram in action](https://raw.githubusercontent.com/klorenz/atom-regex-railroad-diagrams/master/regex-railroad-diagrams.png)
 
-
-### [Activate Power Mode](https://github.com/JoelBesada/activate-power-mode)
-讓你輸入 code 特別有氣勢的東西(?    
-話說我覺得 combo 太干擾我的節奏就關了
-
-
-![activate-power-mode-0 4 0](https://cloud.githubusercontent.com/assets/688415/11615565/10f16456-9c65-11e5-8af4-265f01fc83a0.gif)
-![activate-power-mode-combo](https://cloud.githubusercontent.com/assets/10590799/18817237/876c2d84-8321-11e6-8324-f1540604c0bd.gif)
-
-
 ### [Atom cht menu](https://github.com/Sheng-Bo/atom-cht-menu)
 Atom 中文化    
 感謝作者大大m(_ _)m  雖然已經看習慣英文了
